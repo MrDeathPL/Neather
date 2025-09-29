@@ -10,7 +10,7 @@ Just type the name of your desired city into the command line (or input field), 
 <img width="348" height="350" alt="image" src="https://github.com/user-attachments/assets/a87a21f1-8914-4ce1-b162-5da600316576" />
 
 
-###Features
+### Features
 City Search: Instantly retrieve current weather data by typing the city name.
 
 Current Conditions: Displays temperature (in °C and °F), humidity, wind speed, and atmospheric pressure.
@@ -38,7 +38,7 @@ Install .NET 8
 
 Get your free API key from OpenWeatherMap Sign Up.
 
-Installation
+### Installation
 Clone the repository:
 
 git clone [https://github.com/YOUR_GITHUB_USERNAME/Neather.git](https://github.com/YOUR_GITHUB_USERNAME/Neather.git)
