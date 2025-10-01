@@ -7,7 +7,7 @@ Neather is an open-source, minimalist weather application designed for speed and
 
 Just type the name of your desired city into the command line (or input field), hit enter, and instantly see the current conditions, temperature, and key atmospheric data. It's the simple, no-fuss way to check the weather.
 
-<img width="476" height="763" alt="image" src="https://github.com/user-attachments/assets/d09d393f-a022-4df6-83cf-d84cd9c79998" />
+<img width="276" height="563" alt="image" src="https://github.com/user-attachments/assets/d09d393f-a022-4df6-83cf-d84cd9c79998" />
 
 
 
