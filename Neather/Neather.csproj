@@ -4,18 +4,20 @@
     <OutputType>WinExe</OutputType>
     <TargetFramework>net8.0-windows</TargetFramework>
     <Nullable>enable</Nullable>
-    <UseWindowsForms>true</UseWindowsForms>
+    <UseWPF>true</UseWPF>
     <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>weather.ico</ApplicationIcon>
+    <StartupObject>Neather.App</StartupObject>
   </PropertyGroup>
-
-  <ItemGroup>
-    <None Remove="weather.ico" />
-  </ItemGroup>
 
   <ItemGroup>
     <Content Include="weather.ico">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Drawing.Common" Version="8.0.0" />
   </ItemGroup>
 
 </Project>
